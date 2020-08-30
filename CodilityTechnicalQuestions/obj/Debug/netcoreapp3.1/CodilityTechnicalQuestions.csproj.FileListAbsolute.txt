@@ -1,0 +1,12 @@
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\bin\Debug\netcoreapp3.1\CodilityTechnicalQuestions.exe
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\bin\Debug\netcoreapp3.1\CodilityTechnicalQuestions.deps.json
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\bin\Debug\netcoreapp3.1\CodilityTechnicalQuestions.runtimeconfig.json
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\bin\Debug\netcoreapp3.1\CodilityTechnicalQuestions.runtimeconfig.dev.json
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\bin\Debug\netcoreapp3.1\CodilityTechnicalQuestions.dll
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\bin\Debug\netcoreapp3.1\CodilityTechnicalQuestions.pdb
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\obj\Debug\netcoreapp3.1\CodilityTechnicalQuestions.AssemblyInfoInputs.cache
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\obj\Debug\netcoreapp3.1\CodilityTechnicalQuestions.AssemblyInfo.cs
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\obj\Debug\netcoreapp3.1\CodilityTechnicalQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\obj\Debug\netcoreapp3.1\CodilityTechnicalQuestions.dll
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\obj\Debug\netcoreapp3.1\CodilityTechnicalQuestions.pdb
+C:\Users\Jonny\source\repos\CodilityTechnicalQuestions\CodilityTechnicalQuestions\obj\Debug\netcoreapp3.1\CodilityTechnicalQuestions.genruntimeconfig.cache
