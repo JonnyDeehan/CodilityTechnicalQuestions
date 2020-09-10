@@ -8,9 +8,16 @@ namespace CodilityTechnicalQuestions
         {
             Console.WriteLine("Hello World!");
 
-            Brackets test = new Brackets();
+            TechnicalTest test = new TechnicalTest();
 
-            var result = test.DetermineIfProperlyNested("{[()()]}");
+            var A = new string[3];
+            A[0] = "co";
+            A[1] = "dil";
+            A[2] = "ity";
+
+            var result = test.DetermineLongestUniqueCharacterConcatenationString(A);
+
+            Console.WriteLine("Longest substring length: {0}", result);
         }
     }
 }
